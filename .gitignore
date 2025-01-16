@@ -1,0 +1,13 @@
+node_modules/
+
+*.old
+CURRENT
+LOG
+LOCK
+*.log
+.env
+*.mp4
+*.crypt
+*.mov
+*.zip
+.DS_Store
